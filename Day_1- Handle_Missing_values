@@ -1,1 +1,5 @@
 How to handle Null values In data set !!
+->                                          <-
+1 - Remove column or rows if null value > 5%  but affect the model
+
+
