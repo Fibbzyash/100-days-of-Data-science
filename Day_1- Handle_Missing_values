@@ -5,3 +5,20 @@ How to handle Null values In data set !!
 ->  Missingcompletelyatrandom  less than 5%  <-
 2) Imputation
 For Numerical - Mean/median
+ Not MCARandom -> Arbitrary Value   Imputation replace with Word 'Missing' or any number(-1,999,99)
+
+End of distribution Imputation replace the number with last value instead of (-1,0,99)
+
+Random sample distibution
+
+Last we can analysis or compare the data
+
+Variance , variable distribution
+
+
+<->  Handling Categorical Values  <->
+Mode - most frequent value WORD
+* MCAR
+
+MCAR  replace with the word 'Missing'
+Create new new categor with Missing column the model will kno w
